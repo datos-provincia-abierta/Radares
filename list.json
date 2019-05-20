@@ -1,0 +1,866 @@
+[
+    {
+        "pk": 137,
+        "name": "GENERAL PUEYRRED\u00d3N",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 138,
+        "name": "LA PLATA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 139,
+        "name": "LA MATANZA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 140,
+        "name": "ESTEBAN ECHEVERR\u00cdA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 141,
+        "name": "MORENO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 142,
+        "name": "ALMIRANTE BROWN",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 143,
+        "name": "ESCOBAR",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 144,
+        "name": "MALVINAS ARGENTINAS",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 145,
+        "name": "QUILMES",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 146,
+        "name": "PERGAMINO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 147,
+        "name": "LOMAS DE ZAMORA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 148,
+        "name": "ITUZAING\u00d3",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 149,
+        "name": "MOR\u00d3N",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 150,
+        "name": "AZUL",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 151,
+        "name": "GENERAL SAN MART\u00cdN",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 152,
+        "name": "PILAR",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 153,
+        "name": "CHACABUCO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 154,
+        "name": "LAN\u00daS",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 155,
+        "name": "BAH\u00cdA BLANCA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 156,
+        "name": "GENERAL ALVARADO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 157,
+        "name": "NECOCHEA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 158,
+        "name": "JUN\u00cdN",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 159,
+        "name": "MERLO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 160,
+        "name": "BRAGADO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 161,
+        "name": "AVELLANEDA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 162,
+        "name": "VICENTE L\u00d3PEZ",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 163,
+        "name": "TANDIL",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 164,
+        "name": "NUEVE DE JULIO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 165,
+        "name": "RAMALLO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 166,
+        "name": "SAN NICOL\u00c1S",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 167,
+        "name": "SAN VICENTE",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 168,
+        "name": "CA\u00d1UELAS",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 169,
+        "name": "PEHUAJ\u00d3",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 170,
+        "name": "SAN MIGUEL",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 171,
+        "name": "GENERAL RODR\u00cdGUEZ",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 172,
+        "name": "Z\u00c1RATE",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 173,
+        "name": "VILLA GESELL",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 174,
+        "name": "FLORENCIO VARELA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 175,
+        "name": "CAMPANA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 176,
+        "name": "LUJ\u00c1N",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 177,
+        "name": "HURLINGHAM",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 178,
+        "name": "BERISSO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 179,
+        "name": "PILA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 180,
+        "name": "EZEIZA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 181,
+        "name": "GENERAL VIAMONTE",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 182,
+        "name": "LAS FLORES",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 183,
+        "name": "CORONEL PRINGLES",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 184,
+        "name": "LINCOLN",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 185,
+        "name": "CARMEN DE ARECO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 186,
+        "name": "SUIPACHA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 187,
+        "name": "VILLARINO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 188,
+        "name": "GENERAL LAVALLE",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 189,
+        "name": "LOBOS",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 190,
+        "name": "MAIP\u00da",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 191,
+        "name": "GENERAL LAS HERAS",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 192,
+        "name": "TRES DE FEBRERO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 193,
+        "name": "CAPIT\u00c1N SARMIENTO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 194,
+        "name": "BENITO JU\u00c1REZ",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 195,
+        "name": "TIGRE",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 196,
+        "name": "ADOLFO ALSINA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 197,
+        "name": "TRENQUE LAUQUEN",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 198,
+        "name": "AYACUCHO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 199,
+        "name": "ALBERTI",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 200,
+        "name": "EXALTACI\u00d3N DE LA CRUZ",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 201,
+        "name": "BALCARCE",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 202,
+        "name": "BARADERO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 203,
+        "name": "BRANDSEN",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 204,
+        "name": "ARRECIFES",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 205,
+        "name": "BOLIVAR",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 206,
+        "name": "DAIREAUX",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 207,
+        "name": "CARLOS TEJEDOR",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 208,
+        "name": "SAN ISIDRO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 209,
+        "name": "CASTELLI",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 210,
+        "name": "CARLOS CASARES",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 211,
+        "name": "GENERAL GUIDO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 212,
+        "name": "COL\u00d3N",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 213,
+        "name": "CHASCOM\u00daS",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 214,
+        "name": "CORONEL DORREGO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 215,
+        "name": "GRAL. BELGRANO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 216,
+        "name": "DOLORES",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 217,
+        "name": "CHIVILCOY",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 218,
+        "name": "GENERAL ARENALES",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 219,
+        "name": "LAPRIDA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 220,
+        "name": "GENERAL PINTO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 221,
+        "name": "GENERAL ALVEAR",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 222,
+        "name": "GENERAL LA MADRID",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 223,
+        "name": "GENERAL MADARIAGA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 224,
+        "name": "GENERAL PAZ",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 225,
+        "name": "ADOLFO GONZALES CHAVES",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 226,
+        "name": "GUAMIN\u00cd",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 227,
+        "name": "LEANDRO N. ALEM",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 228,
+        "name": "MAGDALENA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 229,
+        "name": "LOBER\u00cdA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 230,
+        "name": "CORONEL SU\u00c1REZ",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 231,
+        "name": "LA COSTA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 232,
+        "name": "MARCOS PAZ",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 233,
+        "name": "GENERAL VILLEGAS",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 234,
+        "name": "PINAMAR",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 235,
+        "name": "OLAVARR\u00cdA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 236,
+        "name": "PATAGONES",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 237,
+        "name": "BERAZATEGUI",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 238,
+        "name": "ENSENADA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 239,
+        "name": "SALTO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 240,
+        "name": "SAN FERNANDO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 241,
+        "name": "SAN PEDRO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 242,
+        "name": "PRESIDENTE PER\u00d3N",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 243,
+        "name": "NAVARRO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 244,
+        "name": "PELLEGRINI",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 245,
+        "name": "MAR CHIQUITA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 246,
+        "name": "MONTE",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 247,
+        "name": "RIVADAVIA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 248,
+        "name": "ROJAS",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 249,
+        "name": "PUAN",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 250,
+        "name": "RAUCH",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 251,
+        "name": "ROQUE P\u00c9REZ",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 252,
+        "name": "SALADILLO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 253,
+        "name": "MERCEDES",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 254,
+        "name": "SAN ANTONIO DE ARECO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 255,
+        "name": "SAAVEDRA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 256,
+        "name": "SAN ANDR\u00c9S DE GILES",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 257,
+        "name": "TAPALQU\u00c9",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 258,
+        "name": "SAN CAYETANO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 259,
+        "name": "SALLIQUEL\u00d3",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 260,
+        "name": "TORDILLO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 261,
+        "name": "HIP\u00d3LITO YRIGOYEN",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 262,
+        "name": "VEINTICINCO DE MAYO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 263,
+        "name": "ISLAS BARADERO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 264,
+        "name": "ISLAS DE Z\u00c1RATE",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 265,
+        "name": "ISLAS SAN FERNANDO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 266,
+        "name": "MONTE HERMOSO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 267,
+        "name": "ISLAS RAMALLO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 268,
+        "name": "ISLAS SAN PEDRO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 269,
+        "name": "PUNTA INDIO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 270,
+        "name": "FLORENTINO AMEGHINO",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 271,
+        "name": "TORNQUIST",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 272,
+        "name": "LEZAMA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 273,
+        "name": "TRES LOMAS",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 274,
+        "name": "TRES ARROYOS",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 275,
+        "name": "JOS\u00c9 C. PAZ",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 276,
+        "name": "ISLAS CAMPANA",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 277,
+        "name": "CORONEL ROSALES",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 278,
+        "name": "ISLAS TIGRE",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 279,
+        "name": "ISLAS DE SAN NICOLAS",
+        "links": [],
+        "color_index": 1
+    },
+    {
+        "pk": 280,
+        "name": "C.A.B.A",
+        "links": [],
+        "color_index": 1
+    }
+]

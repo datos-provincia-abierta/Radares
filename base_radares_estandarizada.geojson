@@ -1,0 +1,5292 @@
+{ 	"type": "FeatureCollection", 	"features": [{ 						"type": "Feature",
+						"properties": { 				"id":"1"
+				,"n_serie":"C0001"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Berazategui"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"41.95"
+				,"sen":"Asc"
+				,"vencimiento":"6/8/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.1725851,
+				 -34.8956515
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"2"
+				,"n_serie":"C0003"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Castelli"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"180"
+				,"sen":"Asc"
+				,"vencimiento":"31/8/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.8196639,
+				 -36.0750749
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"3"
+				,"n_serie":"C0004"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Castelli"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"180"
+				,"sen":"Desc"
+				,"vencimiento":"2/11/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.8190237,
+				 -36.0749897
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"4"
+				,"n_serie":"C0005"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Mar Chiquita"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"323.7"
+				,"sen":"Asc"
+				,"vencimiento":"2/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.7671006,
+				 -37.2730735
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"5"
+				,"n_serie":"C0006"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Mar Chiquita"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"323.7"
+				,"sen":"Desc"
+				,"vencimiento":"2/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.7664627,
+				 -37.27296
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"6"
+				,"n_serie":"C0007"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Mar Chiquita"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"340.9"
+				,"sen":"Desc"
+				,"vencimiento":"7/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.7329948,
+				 -37.4323342
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"7"
+				,"n_serie":"C0008"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Mar Chiquita"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"340.9"
+				,"sen":"Asc"
+				,"vencimiento":"3/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.7333182,
+				 -37.4325582
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"8"
+				,"n_serie":"C0009"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Pueyrredón"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"396.1"
+				,"sen":"Asc"
+				,"vencimiento":"8/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.5923989,
+				 -37.9131685
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"9"
+				,"n_serie":"C0013"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Madariaga"
+				,"ubicación":"Ruta Provincial 11"
+				,"km":"410.5"
+				,"sen":"Asc"
+				,"vencimiento":"22/1/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -56.8882862,
+				 -37.1040063
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"10"
+				,"n_serie":"C0014"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Tigre"
+				,"ubicación":"Camino De Los Remeros"
+				,"km":"2.7"
+				,"sen":"Asc"
+				,"vencimiento":"10/8/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.612325,
+				 -34.4263825
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"11"
+				,"n_serie":"C0015"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"La Costa"
+				,"ubicación":"Ruta Provincial 11"
+				,"km":"329.8"
+				,"sen":"Desc"
+				,"vencimiento":"8/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -56.7147019,
+				 -36.57977
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"12"
+				,"n_serie":"C0017"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Chascomús"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"116"
+				,"sen":"Asc"
+				,"vencimiento":"29/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.9892823,
+				 -35.5446313
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"13"
+				,"n_serie":"C0018"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Chascomús"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"116"
+				,"sen":"Asc"
+				,"vencimiento":"10/10/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.9891875,
+				 -35.544713
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"14"
+				,"n_serie":"C0019"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Marcos Paz"
+				,"ubicación":"Ruta Provincial 40"
+				,"km":"17.9"
+				,"sen":"Asc"
+				,"vencimiento":"17/7/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.8864397,
+				 -34.8503256
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"15"
+				,"n_serie":"C0020"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Chivilcoy"
+				,"ubicación":"Ruta Provincial 30"
+				,"km":"452"
+				,"sen":"Desc"
+				,"vencimiento":"9/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.991328,
+				 -34.8726772
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"16"
+				,"n_serie":"C0021"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Cañuelas"
+				,"ubicación":"Ruta Provincial 215"
+				,"km":"85.7"
+				,"sen":"Desc"
+				,"vencimiento":"17/10/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.4800432,
+				 -35.2417251
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"17"
+				,"n_serie":"C0022"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Chascomús"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"117.5"
+				,"sen":"Desc"
+				,"vencimiento":"9/10/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.9818913,
+				 -35.5613922
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"18"
+				,"n_serie":"C0023"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Cañuelas"
+				,"ubicación":"Ruta Provincial 215"
+				,"km":"85.7"
+				,"sen":"Asc"
+				,"vencimiento":"17/10/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.490348,
+				 -35.2515473
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"19"
+				,"n_serie":"C0024"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Chascomús"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"117.5"
+				,"sen":"Desc"
+				,"vencimiento":"9/10/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.9818028,
+				 -35.5617919
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"20"
+				,"n_serie":"C0025"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Lezama"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"156.2"
+				,"sen":"Desc"
+				,"vencimiento":"14/11/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.8955781,
+				 -35.8741134
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"21"
+				,"n_serie":"C0027"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Dolores"
+				,"ubicación":"Ruta Provincial 63"
+				,"km":"8.8"
+				,"sen":"Desc"
+				,"vencimiento":"6/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.6159784,
+				 -36.3090986
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"22"
+				,"n_serie":"C0028"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Lezama"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"156.2"
+				,"sen":"Asc"
+				,"vencimiento":"18/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.895739,
+				 -35.8741591
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"23"
+				,"n_serie":"C0029"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Campana"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"185.1"
+				,"sen":"Asc"
+				,"vencimiento":"10/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9843924,
+				 -34.3123794
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"24"
+				,"n_serie":"C0032"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Dolores"
+				,"ubicación":"Ruta Provincial 63"
+				,"km":"13.3"
+				,"sen":"Asc"
+				,"vencimiento":"5/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.5024807,
+				 -36.3138912
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"25"
+				,"n_serie":"C0036"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Bragado"
+				,"ubicación":"Ruta Provincial 46"
+				,"km":"51.2"
+				,"sen":"Asc"
+				,"vencimiento":"18/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.5285255,
+				 -35.0684588
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"26"
+				,"n_serie":"C0038"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Tigre"
+				,"ubicación":"Ruta Provincial 197 Y Mitre"
+				,"km":"-"
+				,"sen":"Desc"
+				,"vencimiento":"3/5/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5835109,
+				 -34.4271319
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"27"
+				,"n_serie":"C0043"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Madariaga"
+				,"ubicación":"Ruta Provincial 74"
+				,"km":"18.2"
+				,"sen":"Desc"
+				,"vencimiento":"26/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.0647841,
+				 -37.0376851
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"28"
+				,"n_serie":"C0045"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Rodríguez"
+				,"ubicación":"Ruta Provincial 28"
+				,"km":"2.2"
+				,"sen":"Desc"
+				,"vencimiento":"5/10/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9409281,
+				 -34.5812627
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"29"
+				,"n_serie":"C0046"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Marcos Paz"
+				,"ubicación":"Ruta Provincial 40"
+				,"km":"17.9"
+				,"sen":"Desc"
+				,"vencimiento":"13/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.8862154,
+				 -34.8504103
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"30"
+				,"n_serie":"C0047"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Pila"
+				,"ubicación":"Ruta Provincial 41"
+				,"km":"33.5"
+				,"sen":"Asc"
+				,"vencimiento":"23/6/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.1701916,
+				 -36.0154578
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"31"
+				,"n_serie":"C0048"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Tigre"
+				,"ubicación":"Ruta Provincial 197 Y Mitre"
+				,"km":"-"
+				,"sen":"Desc"
+				,"vencimiento":"9/5/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5837364,
+				 -34.4273799
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"32"
+				,"n_serie":"C0049"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Pila"
+				,"ubicación":"Ruta Provincial 41"
+				,"km":"33.5"
+				,"sen":"Desc"
+				,"vencimiento":"30/8/17"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.1713421,
+				 -36.0163752
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"33"
+				,"n_serie":"C0050"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Tigre"
+				,"ubicación":"Camino De Los Remeros"
+				,"km":"2.7"
+				,"sen":"Desc"
+				,"vencimiento":"23/11/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6143776,
+				 -34.4255302
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"34"
+				,"n_serie":"CJR0009"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Dolores"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"203"
+				,"sen":"Asc"
+				,"vencimiento":"19/7/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.7025184,
+				 -36.2838266
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"35"
+				,"n_serie":"CJR0010"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Lezama"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"152.7"
+				,"sen":"Asc"
+				,"vencimiento":"21/12/18"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.9097401,
+				 -35.8429276
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"36"
+				,"n_serie":"CJR0011"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Dolores"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"203"
+				,"sen":"Asc"
+				,"vencimiento":"19/7/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.7046212,
+				 -36.2838271
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"37"
+				,"n_serie":"CJR0012"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Lavalle"
+				,"ubicación":"Ruta Provincial 11"
+				,"km":"290.2"
+				,"sen":"Asc"
+				,"vencimiento":"4/12/18"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -56.9148098,
+				 -36.4307406
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"38"
+				,"n_serie":"CJR0013"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Chascomús"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"113.5"
+				,"sen":"Desc"
+				,"vencimiento":"18/10/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.0238462,
+				 -35.5109064
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"39"
+				,"n_serie":"CJR0014"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Chascomús"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"114"
+				,"sen":"Asc"
+				,"vencimiento":"18/10/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.024111,
+				 -35.5109074
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"40"
+				,"n_serie":"CJR0015"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Magdalena"
+				,"ubicación":"Ruta Provincial 36"
+				,"km":"96.5"
+				,"sen":"Desc"
+				,"vencimiento":"15/3/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.7143583,
+				 -35.227753
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"41"
+				,"n_serie":"CJR0016"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Magdalena"
+				,"ubicación":"Ruta Provincial 36"
+				,"km":"96.5"
+				,"sen":"Asc"
+				,"vencimiento":"7/8/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.714826,
+				 -35.2289804
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"42"
+				,"n_serie":"CJR0017"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Punta Indio"
+				,"ubicación":"Ruta Provincial 36"
+				,"km":"152"
+				,"sen":"Asc"
+				,"vencimiento":"20/4/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.3227721,
+				 -35.5308637
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"43"
+				,"n_serie":"CJR0018"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Pergamino"
+				,"ubicación":"Ruta Provincial 32"
+				,"km":"122.5"
+				,"sen":"Desc"
+				,"vencimiento":"28/12/18"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.3912753,
+				 -34.0717718
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"44"
+				,"n_serie":"CJR0020"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Berazategui"
+				,"ubicación":"Camino Centenario"
+				,"km":"17.5"
+				,"sen":"Desc"
+				,"vencimiento":"11/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.1296392,
+				 -34.8447432
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"45"
+				,"n_serie":"CJR0021"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Berazategui"
+				,"ubicación":"Camino Centenario"
+				,"km":"17.5"
+				,"sen":"Asc"
+				,"vencimiento":"8/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.129607,
+				 -34.8445803
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"46"
+				,"n_serie":"CJR0022"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Almirante Brown"
+				,"ubicación":"Avenida Hipólito Yrigoyen"
+				,"km":"15300"
+				,"sen":"Asc"
+				,"vencimiento":"21/7/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.7870456,
+				 -34.6392772
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"47"
+				,"n_serie":"CJR0023"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Almirante Brown"
+				,"ubicación":"Avenida Hipólito Yrigoyen"
+				,"km":"16100"
+				,"sen":"Desc"
+				,"vencimiento":"21/7/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9450473,
+				 -34.1693245
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"48"
+				,"n_serie":"CJR0024"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Dolores"
+				,"ubicación":"Ruta Provincial 63"
+				,"km":"0.55"
+				,"sen":"Desc"
+				,"vencimiento":"5/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.6893176,
+				 -36.2957689
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"49"
+				,"n_serie":"CJR0025"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Dolores"
+				,"ubicación":"Ruta Provincial 63"
+				,"km":"0.55"
+				,"sen":"Asc"
+				,"vencimiento":"6/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.6894045,
+				 -36.2959909
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"50"
+				,"n_serie":"CJR0032"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Bahía Blanca"
+				,"ubicación":"Don Bosco"
+				,"km":"2985"
+				,"sen":"Asc"
+				,"vencimiento":"9/1/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -62.3137907,
+				 -38.7069949
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"51"
+				,"n_serie":"CJR0033"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Bahía Blanca"
+				,"ubicación":"Don Bosco"
+				,"km":"2990"
+				,"sen":"Desc"
+				,"vencimiento":"4/7/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -62.3138389,
+				 -38.7070294
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"52"
+				,"n_serie":"CJR0034"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Lezama"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"152.7"
+				,"sen":"Asc"
+				,"vencimiento":"7/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.9097937,
+				 -35.842771
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"53"
+				,"n_serie":"CJR0035"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Dolores"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"203"
+				,"sen":"Desc"
+				,"vencimiento":"8/8/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.7023044,
+				 -36.2853141
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"54"
+				,"n_serie":"CJR0036"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Chascomús"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"113.5"
+				,"sen":"Desc"
+				,"vencimiento":"26/3/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.0237497,
+				 -35.5110811
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"55"
+				,"n_serie":"CJR0038"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Chascomús"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"114"
+				,"sen":"Asc"
+				,"vencimiento":"23/5/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.0240466,
+				 -35.5111214
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"56"
+				,"n_serie":"CJR0040"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"La Plata"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"45"
+				,"sen":"Desc"
+				,"vencimiento":"31/8/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.1693921,
+				 -34.9399858
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"57"
+				,"n_serie":"CJR0042"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Pergamino"
+				,"ubicación":"Ruta Provincial 32"
+				,"km":"122.5"
+				,"sen":"Asc"
+				,"vencimiento":"6/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.3934128,
+				 -34.0731165
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"58"
+				,"n_serie":"CJR0045"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Dolores"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"203"
+				,"sen":"Desc"
+				,"vencimiento":"24/1/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.7045248,
+				 -36.2854331
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"59"
+				,"n_serie":"CJR0047"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Lezama"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"156.2"
+				,"sen":"Desc"
+				,"vencimiento":"22/5/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.8956477,
+				 -35.8743308
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"60"
+				,"n_serie":"CJR0048"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Lezama"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"156.2"
+				,"sen":"Asc"
+				,"vencimiento":"22/5/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.8954493,
+				 -35.874283
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"61"
+				,"n_serie":"D0001"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Monte"
+				,"ubicación":"Ruta Provincial 41"
+				,"km":"123.5"
+				,"sen":"Asc"
+				,"vencimiento":"3/5/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.7947343,
+				 -35.416227
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"62"
+				,"n_serie":"D0002"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Monte"
+				,"ubicación":"Ruta Provincial 41"
+				,"km":"123.5"
+				,"sen":"Desc"
+				,"vencimiento":"16/11/17"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.7944767,
+				 -35.4202837
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"63"
+				,"n_serie":"D0003"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Monte"
+				,"ubicación":"Ruta Provincial 215"
+				,"km":"110.5"
+				,"sen":"Asc"
+				,"vencimiento":"5/4/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.7634059,
+				 -35.4335724
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"64"
+				,"n_serie":"D0004"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Belgrano"
+				,"ubicación":"Ruta Provincial 29"
+				,"km":"72.9"
+				,"sen":"Asc"
+				,"vencimiento":"19/9/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5086675,
+				 -35.7646908
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"65"
+				,"n_serie":"D0005"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Dolores"
+				,"ubicación":"Ruta Provincial 63"
+				,"km":"13.3"
+				,"sen":"Asc"
+				,"vencimiento":"5/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.5023729,
+				 -36.3136144
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"66"
+				,"n_serie":"D0006"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Mar Chiquita"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"341"
+				,"sen":"Asc"
+				,"vencimiento":"3/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.7323371,
+				 -37.4334353
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"67"
+				,"n_serie":"D0007"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Monte"
+				,"ubicación":"Ruta Provincial 215"
+				,"km":"106"
+				,"sen":"Desc"
+				,"vencimiento":"2/5/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.7308762,
+				 -35.405804
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"68"
+				,"n_serie":"D0008"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Belgrano"
+				,"ubicación":"Ruta Provincial 29"
+				,"km":"72.9"
+				,"sen":"Desc"
+				,"vencimiento":"7/11/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5085898,
+				 -35.7647409
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"69"
+				,"n_serie":"D0014"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Rojas"
+				,"ubicación":"Ruta Provincial 31"
+				,"km":"171.7"
+				,"sen":"Asc"
+				,"vencimiento":"11/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.7195985,
+				 -34.1825579
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"70"
+				,"n_serie":"D0016"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Rojas"
+				,"ubicación":"Ruta Provincial 31"
+				,"km":"170.2"
+				,"sen":"Desc"
+				,"vencimiento":"5/12/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.7133488,
+				 -34.1885608
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"71"
+				,"n_serie":"D0017"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Campana"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"185.1"
+				,"sen":"Desc"
+				,"vencimiento":"3/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9841492,
+				 -34.3124232
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"72"
+				,"n_serie":"D0018"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Castelli"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"180"
+				,"sen":"Desc"
+				,"vencimiento":"10/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.8186373,
+				 -36.0761603
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"73"
+				,"n_serie":"D0020"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Salto"
+				,"ubicación":"Ruta Provincial 32"
+				,"km":"55.3"
+				,"sen":"Desc"
+				,"vencimiento":"6/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.2414753,
+				 -34.3186098
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"74"
+				,"n_serie":"D0021"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Pueyrredón"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"395.9"
+				,"sen":"Desc"
+				,"vencimiento":"2/11/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.5960777,
+				 -37.9025754
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"75"
+				,"n_serie":"D0022"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"La Plata"
+				,"ubicación":"Avenida 44 Y Calle 243"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"23/10/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.0906925,
+				 -35.0329679
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"76"
+				,"n_serie":"D0024"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Olavarría"
+				,"ubicación":"Ruta Provincial 51"
+				,"km":"456"
+				,"sen":"Asc"
+				,"vencimiento":"18/4/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.2837866,
+				 -36.979139
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"77"
+				,"n_serie":"D0026"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Madariaga"
+				,"ubicación":"Ruta Provincial 74"
+				,"km":"23"
+				,"sen":"Desc"
+				,"vencimiento":"23/1/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.1031078,
+				 -37.0198006
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"78"
+				,"n_serie":"D0028"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Salto"
+				,"ubicación":"Ruta Provincial 32"
+				,"km":"55.8"
+				,"sen":"Asc"
+				,"vencimiento":"6/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.2410382,
+				 -34.3183596
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"79"
+				,"n_serie":"D0029"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Olavarría"
+				,"ubicación":"Ruta Provincial 51"
+				,"km":"456"
+				,"sen":"Desc"
+				,"vencimiento":"18/4/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.2834494,
+				 -36.9788891
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"80"
+				,"n_serie":"D0031"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Madariaga"
+				,"ubicación":"Ruta Provincial 74"
+				,"km":"23"
+				,"sen":"Desc"
+				,"vencimiento":"19/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.1027211,
+				 -37.0188417
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"81"
+				,"n_serie":"D0032"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Castelli"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"180"
+				,"sen":"Asc"
+				,"vencimiento":"20/3/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.8191308,
+				 -36.0762818
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"82"
+				,"n_serie":"D0033"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Las Heras"
+				,"ubicación":"Ruta Provincial 40"
+				,"km":"34.8"
+				,"sen":"Desc"
+				,"vencimiento":"3/3/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9600077,
+				 -34.9237099
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"83"
+				,"n_serie":"D0034"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Rodríguez"
+				,"ubicación":"Ruta Provincial 28"
+				,"km":"2.2"
+				,"sen":"Asc"
+				,"vencimiento":"26/10/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9414859,
+				 -34.5807505
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"84"
+				,"n_serie":"D0035"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Campana"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"185.1"
+				,"sen":"Desc"
+				,"vencimiento":"26/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9844668,
+				 -34.3126154
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"85"
+				,"n_serie":"D0036"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Madariaga"
+				,"ubicación":"Ruta Provincial 74"
+				,"km":"23"
+				,"sen":"Asc"
+				,"vencimiento":"25/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.1042667,
+				 -37.01867
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"86"
+				,"n_serie":"D0037"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Lavalle"
+				,"ubicación":"Ruta Provincial 11"
+				,"km":"326.8"
+				,"sen":"Asc"
+				,"vencimiento":"23/1/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -56.7169051,
+				 -36.5437813
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"87"
+				,"n_serie":"D0038"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Lavalle"
+				,"ubicación":"Ruta Provincial 11"
+				,"km":"317.7"
+				,"sen":"Asc"
+				,"vencimiento":"30/8/17"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -56.715087,
+				 -36.4749222
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"88"
+				,"n_serie":"D0039"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Las Heras"
+				,"ubicación":"Ruta Provincial 40"
+				,"km":"34.8"
+				,"sen":"Asc"
+				,"vencimiento":"26/9/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9577761,
+				 -34.921106
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"89"
+				,"n_serie":"D0040"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Mar Chiquita"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"341"
+				,"sen":"Desc"
+				,"vencimiento":"4/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.7320617,
+				 -37.4331786
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"90"
+				,"n_serie":"D0041"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Madariaga"
+				,"ubicación":"Ruta Provincial 74"
+				,"km":"23"
+				,"sen":"Asc"
+				,"vencimiento":"25/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.1041806,
+				 -37.0197321
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"91"
+				,"n_serie":"D0042"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Pueyrredón"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"396.1"
+				,"sen":"Asc"
+				,"vencimiento":"1/11/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.5936639,
+				 -37.9135588
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"92"
+				,"n_serie":"D0043"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Pueyrredón"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"395.9"
+				,"sen":"Desc"
+				,"vencimiento":"2/11/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.5977086,
+				 -37.9027617
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"93"
+				,"n_serie":"D0044"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Madariaga"
+				,"ubicación":"Ruta Provincial 74"
+				,"km":"18.2"
+				,"sen":"Asc"
+				,"vencimiento":"26/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.0658143,
+				 -37.0380965
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"94"
+				,"n_serie":"D0046"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"La Costa"
+				,"ubicación":"Ruta Provincial 11"
+				,"km":"326.8"
+				,"sen":"Desc"
+				,"vencimiento":"21/11/17"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -56.7158676,
+				 -36.5605954
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"95"
+				,"n_serie":"D0047"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"La Plata"
+				,"ubicación":"Avenida 44 Y Calle 243"
+				,"km":"-"
+				,"sen":"Desc"
+				,"vencimiento":"23/10/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.0895666,
+				 -35.0337057
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"96"
+				,"n_serie":"D0048"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Campana"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"185.1"
+				,"sen":"Asc"
+				,"vencimiento":"28/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.984259,
+				 -34.3126805
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"97"
+				,"n_serie":"D0049"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"San Antonio Areco"
+				,"ubicación":"Ruta Provincial 41"
+				,"km":"277.2"
+				,"sen":"Asc"
+				,"vencimiento":"15/12/17"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.0174517,
+				 -36.0522261
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"98"
+				,"n_serie":"D0050"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"San Antonio Areco"
+				,"ubicación":"Ruta Provincial 41"
+				,"km":"277.7"
+				,"sen":"Desc"
+				,"vencimiento":"12/3/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.010671,
+				 -36.0538579
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"99"
+				,"n_serie":"NEO_015"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Tordillo"
+				,"ubicación":"Ruta Provincial 11"
+				,"km":"249.4"
+				,"sen":"Asc"
+				,"vencimiento":"6/4/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.3059001,
+				 -36.5017725
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"100"
+				,"n_serie":"NEO_016"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"La Plata"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"52"
+				,"sen":"Desc"
+				,"vencimiento":"1/6/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.0815443,
+				 -35.0758455
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"101"
+				,"n_serie":"NEO_017"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Tordillo"
+				,"ubicación":"Ruta Provincial 11"
+				,"km":"249.4"
+				,"sen":"Desc"
+				,"vencimiento":"5/4/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.3054709,
+				 -36.5015053
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"102"
+				,"n_serie":"NEO_018"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"La Plata"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"52"
+				,"sen":"Asc"
+				,"vencimiento":"2/6/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.079656,
+				 -35.0748241
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"103"
+				,"n_serie":"NEO_020"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Zárate"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"83.5"
+				,"sen":"Asc"
+				,"vencimiento":"27/12/18"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.0121336,
+				 -34.1310635
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"104"
+				,"n_serie":"NEO_021"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Zárate"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"83.5"
+				,"sen":"Desc"
+				,"vencimiento":"19/12/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.0124341,
+				 -34.1312056
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"105"
+				,"n_serie":"NEO_022"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Moreno"
+				,"ubicación":"Ruta Provincial 23 Y Pinto"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"26/4/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.7620492,
+				 -34.6027538
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"106"
+				,"n_serie":"NEO_023"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Moreno"
+				,"ubicación":"Ruta Provincial 23 Y Pinto"
+				,"km":"-"
+				,"sen":"Desc"
+				,"vencimiento":"25/4/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.7619743,
+				 -34.6029038
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"107"
+				,"n_serie":"NEO_024"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"San Isidro"
+				,"ubicación":"Avenida Centenario"
+				,"km":"2315"
+				,"sen":"Asc"
+				,"vencimiento":"8/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.532647,
+				 -34.4576729
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"108"
+				,"n_serie":"NEO_025"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"La Plata"
+				,"ubicación":"Autopista  (Bs As - La Plata)"
+				,"km":"41.5"
+				,"sen":"Asc"
+				,"vencimiento":"8/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.0668552,
+				 -34.8407727
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"109"
+				,"n_serie":"NEO_026"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"La Plata"
+				,"ubicación":"Autopista  (Bs As - La Plata)"
+				,"km":"41.5"
+				,"sen":"Desc"
+				,"vencimiento":"9/3/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.066469,
+				 -34.8399449
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"110"
+				,"n_serie":"NEO_027"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Berazategui"
+				,"ubicación":"Autopista  (Bs. As.-M. Del Plata)"
+				,"km":"33.8"
+				,"sen":"Asc"
+				,"vencimiento":"20/3/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.1630614,
+				 -34.7997847
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"111"
+				,"n_serie":"NEO_0028"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Quilmes"
+				,"ubicación":"Autopista  (Bs As - La Plata)"
+				,"km":"17"
+				,"sen":"Desc"
+				,"vencimiento":"6/3/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.2747586,
+				 -34.7028495
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"112"
+				,"n_serie":"NEO_029"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Quilmes"
+				,"ubicación":"Autopista  (Bs As - La Plata)"
+				,"km":"17"
+				,"sen":"Asc"
+				,"vencimiento":"23/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.27261,
+				 -34.7019907
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"113"
+				,"n_serie":"NEO_030"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Berazategui"
+				,"ubicación":"Autopista  (Bs. As.-M. Del Plata)"
+				,"km":"33.5"
+				,"sen":"Desc"
+				,"vencimiento":"25/1/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.1631172,
+				 -34.7997073
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"114"
+				,"n_serie":"NEO_031"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Tres De Febrero"
+				,"ubicación":"Camino Del Buen Ayre"
+				,"km":"9.7"
+				,"sen":"Desc"
+				,"vencimiento":"13/9/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6286786,
+				 -34.5565377
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"115"
+				,"n_serie":"NEO_032"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Tres De Febrero"
+				,"ubicación":"Camino Del Buen Ayre"
+				,"km":"9.7"
+				,"sen":"Asc"
+				,"vencimiento":"18/10/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6261038,
+				 -34.5573505
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"116"
+				,"n_serie":"NEO_033"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Junín"
+				,"ubicación":"Avenida Circunval. Y Sampayo"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"31/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.9544467,
+				 -34.6057892
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"117"
+				,"n_serie":"NEO_034"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Chascomús"
+				,"ubicación":"Ruta Provincial 2 "
+				,"km":"103.5"
+				,"sen":"Desc"
+				,"vencimiento":"22/5/18"
+				,"estado":"Pendiente De Calibración"
+				,"propietario":"Provincial"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.0496231,
+				 -35.4264317
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"118"
+				,"n_serie":"C0044"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Bragado"
+				,"ubicación":"Ruta Provincial 46"
+				,"km":"51.2"
+				,"sen":"Desc"
+				,"vencimiento":"17/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.5288647,
+				 -35.0685357
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"119"
+				,"n_serie":"DTV2_010"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"La Matanza"
+				,"ubicación":"Ruta Provincial 4 Y Autopista Richieri"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5133706,
+				 -34.722523
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"120"
+				,"n_serie":"DTV2_011"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"La Matanza"
+				,"ubicación":"Ruta Provincial 4 Y Ruta Nacional 3"
+				,"km":"-"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5605025,
+				 -34.6855395
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"121"
+				,"n_serie":"DTV2_012"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"La Matanza"
+				,"ubicación":"Ruta Nacional 3 Y Ruta Provincial 4"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.560717,
+				 -34.6845869
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"122"
+				,"n_serie":"DTV2_014"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Dolores"
+				,"ubicación":"Ruta Provincial 63"
+				,"km":"0.55"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.690137,
+				 -36.2955847
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"123"
+				,"n_serie":"DTV2_015"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Dolores"
+				,"ubicación":"Ruta Provincial 63"
+				,"km":"0.55"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.6902067,
+				 -36.2957274
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"124"
+				,"n_serie":"DTV2_016"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Campana"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"194"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9640044,
+				 -34.2391211
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"125"
+				,"n_serie":"DTV2_017"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Campana"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"194"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9641597,
+				 -34.2390679
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"126"
+				,"n_serie":"DTV2_018"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Lezama"
+				,"ubicación":"Ruta Provincial 2"
+				,"km":"156.2"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.8955512,
+				 -35.8745068
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"127"
+				,"n_serie":"DTV2_019"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Lezama"
+				,"ubicación":"Ruta Provincial 2"
+				,"km":"156.2"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.8953581,
+				 -35.874459
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"128"
+				,"n_serie":"DTV2_020"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Monte"
+				,"ubicación":"Ruta Provincial 3"
+				,"km":"110.5"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.8177564,
+				 -35.4462893
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"129"
+				,"n_serie":"DTV2_021"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Monte"
+				,"ubicación":"Ruta Nacional 3"
+				,"km":"110.5"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.8176124,
+				 -35.4463932
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"130"
+				,"n_serie":"DTV2_022"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Luján"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"159.3"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.037592,
+				 -34.5213088
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"131"
+				,"n_serie":"DTV2_023"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Luján"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"159.3"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.0377635,
+				 -34.5212953
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"132"
+				,"n_serie":"DTV2_026"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Castelli"
+				,"ubicación":"Ruta Provincial 2"
+				,"km":"182"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.8117587,
+				 -36.0932338
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"133"
+				,"n_serie":"DTV2_027"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Castelli"
+				,"ubicación":"Ruta Provincial 2"
+				,"km":"182"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.8111579,
+				 -36.0929996
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"134"
+				,"n_serie":"DTV2_028"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"General Las Heras"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"107.3"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.8279083,
+				 -34.9487721
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"135"
+				,"n_serie":"DTV2_029"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"General Las Heras"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"107.3"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.8276176,
+				 -34.9487558
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"136"
+				,"n_serie":"DTV2_24"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"San Antonio De Areco"
+				,"ubicación":"Ruta Provincial 41"
+				,"km":"277.7"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.450888,
+				 -34.2646868
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"137"
+				,"n_serie":"DTV2_25"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"San Antonio De Areco"
+				,"ubicación":"Ruta Provincial 41"
+				,"km":"277.2"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.4507117,
+				 -34.2647835
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"138"
+				,"n_serie":"ENFORCER_022"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Exaltación de la Cruz"
+				,"ubicación":"Ruta Provincial 192"
+				,"km":"21"
+				,"sen":"Asc"
+				,"vencimiento":"19/10/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.1228553,
+				 -34.3829542
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"139"
+				,"n_serie":"ENFORCER_025"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Exaltación de la Cruz"
+				,"ubicación":"Ruta Provincial 192"
+				,"km":"21.1"
+				,"sen":"Desc"
+				,"vencimiento":"19/10/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.1229766,
+				 -34.3829537
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"140"
+				,"n_serie":"ENFORCER_028"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Rauch"
+				,"ubicación":"Ruta Provincial 30"
+				,"km":"191.7"
+				,"sen":"Asc"
+				,"vencimiento":"8/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.0784977,
+				 -36.7739752
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"141"
+				,"n_serie":"ENFORCER_029"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Rauch"
+				,"ubicación":"Ruta Provincial 30"
+				,"km":"191.7"
+				,"sen":"Desc"
+				,"vencimiento":"8/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.0782188,
+				 -36.7738291
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"142"
+				,"n_serie":"ENFORCER_034"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Chacabuco"
+				,"ubicación":"Ruta Provincial 30"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"7/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.4223427,
+				 -34.6260697
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"143"
+				,"n_serie":"ENFORCER_036"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"La Plata"
+				,"ubicación":"Avenida 44 Y Calle 243"
+				,"km":"-"
+				,"sen":"Desc"
+				,"vencimiento":"18/12/18"
+				,"estado":"Pendiente Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.0915999,
+				 -35.0336788
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"144"
+				,"n_serie":"ENFORCER_042"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Punta Indio"
+				,"ubicación":"Ruta Provincial 11"
+				,"km":"142.7"
+				,"sen":"-"
+				,"vencimiento":"17/12/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.2676776,
+				 -35.5929438
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"145"
+				,"n_serie":"ENFORCER_043"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Punta Indio"
+				,"ubicación":"Ruta Provincial 11"
+				,"km":"142.7"
+				,"sen":"-"
+				,"vencimiento":"17/12/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.2673773,
+				 -35.5931357
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"146"
+				,"n_serie":"ENFORCER_048"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Navarro"
+				,"ubicación":"Ruta Provincial 41"
+				,"km":"192"
+				,"sen":"-"
+				,"vencimiento":"8/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.3043575,
+				 -35.0165127
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"147"
+				,"n_serie":"ENFORCER_049"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Navarro"
+				,"ubicación":"Ruta Provincial 41"
+				,"km":"192"
+				,"sen":"-"
+				,"vencimiento":"8/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.3067608,
+				 -35.0181997
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"148"
+				,"n_serie":"ENFORCER_053"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Lobos"
+				,"ubicación":"Ruta Provincial 41"
+				,"km":"162"
+				,"sen":"Asc"
+				,"vencimiento":"Consultar"
+				,"estado":"Consultar"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.134832,
+				 -35.1725399
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"149"
+				,"n_serie":"ENFORCER_054"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Lobos"
+				,"ubicación":"Ruta Provincial 41"
+				,"km":"205"
+				,"sen":"Desc"
+				,"vencimiento":"8/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9409833,
+				 -35.2970912
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"150"
+				,"n_serie":"ENFORCER_055"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Lobos"
+				,"ubicación":"Ruta Provincial 41"
+				,"km":"205"
+				,"sen":"Desc"
+				,"vencimiento":"8/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9413601,
+				 -35.2968438
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"151"
+				,"n_serie":"ENFORCER_056"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Pilar"
+				,"ubicación":"Avenida Cuarenta Leguas"
+				,"km":"3600"
+				,"sen":"Desc"
+				,"vencimiento":"28/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9216301,
+				 -34.4750089
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"152"
+				,"n_serie":"ENFORCER_057"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Pilar"
+				,"ubicación":"Avenida Cuarenta Leguas"
+				,"km":"3600"
+				,"sen":"Asc"
+				,"vencimiento":"28/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9218393,
+				 -34.4753273
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"153"
+				,"n_serie":"ENFORCER_066"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Pilar"
+				,"ubicación":"Avenida Domenech"
+				,"km":"3300"
+				,"sen":"Desc"
+				,"vencimiento":"14/12/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9302043,
+				 -34.5358481
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"154"
+				,"n_serie":"ENFORCER_067"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Pilar"
+				,"ubicación":"Avenida Domenech"
+				,"km":"2200"
+				,"sen":"Asc"
+				,"vencimiento":"24/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.920858,
+				 -34.4935751
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"155"
+				,"n_serie":"ENFORCER_068"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Pilar"
+				,"ubicación":"Avenida D. Rocha"
+				,"km":"3100"
+				,"sen":"Asc"
+				,"vencimiento":"24/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.8904935,
+				 -34.4911198
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"156"
+				,"n_serie":"ENFORCER_069"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Pilar"
+				,"ubicación":"Avenida D. Rocha"
+				,"km":"3300"
+				,"sen":"Desc"
+				,"vencimiento":"24/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.8893995,
+				 -34.4923048
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"157"
+				,"n_serie":"LU_001"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Chascomús"
+				,"ubicación":"Ruta Provincial 2"
+				,"km":"116"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.9889763,
+				 -35.5448416
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"158"
+				,"n_serie":"LU_002"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Chascomús"
+				,"ubicación":"Ruta Provincial 2"
+				,"km":"117.5"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.9817397,
+				 -35.5620851
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"159"
+				,"n_serie":"LU_005"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Rojas"
+				,"ubicación":"Ruta Provincial 31"
+				,"km":"171.7"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.7201044,
+				 -34.1820922
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"160"
+				,"n_serie":"LU_006"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Rojas"
+				,"ubicación":"Ruta Provincial 31"
+				,"km":"170.2"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.7127873,
+				 -34.1889793
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"161"
+				,"n_serie":"LU_007"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Las Flores"
+				,"ubicación":"Ruta Nacional 3"
+				,"km":"187.1"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.0790064,
+				 -36.0236326
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"162"
+				,"n_serie":"LU_008"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Las Flores"
+				,"ubicación":"Ruta Nacional 3"
+				,"km":"187"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.0790847,
+				 -36.0280084
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"163"
+				,"n_serie":"LU_009"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Capitán Sarmiento"
+				,"ubicación":"Ruta Provincial 51 "
+				,"km":"96.7"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.9275841,
+				 -34.221012
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"164"
+				,"n_serie":"LU_010"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Capitán Sarmiento"
+				,"ubicación":"Ruta Provincial 51"
+				,"km":"96.7"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.9275915,
+				 -34.221025
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"165"
+				,"n_serie":"LU_016"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"General Paz"
+				,"ubicación":"Ruta Provincial 29"
+				,"km":"41.9"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.3542897,
+				 -35.5080663
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"166"
+				,"n_serie":"LU_017"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"General Paz"
+				,"ubicación":"Ruta Provincial 29"
+				,"km":"41.3"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.3547296,
+				 -35.5079703
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"167"
+				,"n_serie":"Lutec_011"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Rauch"
+				,"ubicación":"Ruta Provincial 30"
+				,"km":"190"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.0744865,
+				 -36.777224
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"168"
+				,"n_serie":"Lutec_012"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Rauch"
+				,"ubicación":"Ruta Provincial 30"
+				,"km":"190"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.074111,
+				 -36.7771122
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"169"
+				,"n_serie":"NEO_0053"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Campana"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"194"
+				,"sen":"Desc"
+				,"vencimiento":"27/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9640378,
+				 -34.2388572
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"170"
+				,"n_serie":"NEO_043"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Salto"
+				,"ubicación":"Ruta Provincial 31"
+				,"km":"121.3"
+				,"sen":"Asc"
+				,"vencimiento":"28/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.2178272,
+				 -34.3340196
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"171"
+				,"n_serie":"NEO_046"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Salto"
+				,"ubicación":"Ruta Provincial 31"
+				,"km":"121.3"
+				,"sen":"Desc"
+				,"vencimiento":"29/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.2178913,
+				 -34.3340729
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"172"
+				,"n_serie":"NEO_052"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Campana"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"194"
+				,"sen":"Asc"
+				,"vencimiento":"2/11/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9638876,
+				 -34.2389104
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"173"
+				,"n_serie":"NEO_054"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Campana"
+				,"ubicación":"Avenida 6 De Julio"
+				,"km":"1100"
+				,"sen":"Desc"
+				,"vencimiento":"14/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.9422163,
+				 -34.1767017
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"174"
+				,"n_serie":"NEO_058"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"San Fernando"
+				,"ubicación":"Ruta Provincial 202 - Avenida H Yrigoyen"
+				,"km":"5000"
+				,"sen":"Asc"
+				,"vencimiento":"12/10/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5965507,
+				 -34.4657766
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"175"
+				,"n_serie":"NEO_059"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"San Fernando"
+				,"ubicación":"Ruta Provincial 202 - Avenida H Yrigoyen"
+				,"km":"5000"
+				,"sen":"Desc"
+				,"vencimiento":"23/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5950041,
+				 -34.4659889
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"176"
+				,"n_serie":"NEO_065"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"San Isidro"
+				,"ubicación":"Avenida Bernabe Marquez"
+				,"km":"1515"
+				,"sen":"Asc"
+				,"vencimiento":"4/1/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5312763,
+				 -34.4836636
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"177"
+				,"n_serie":"NEO_066"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"San Isidro"
+				,"ubicación":"Avenida Bernabe Marquez"
+				,"km":"1590"
+				,"sen":"Desc"
+				,"vencimiento":"30/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5318074,
+				 -34.4843003
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"178"
+				,"n_serie":"NEO_071"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General San Martín"
+				,"ubicación":"J.M. De Rosas"
+				,"km":"4700"
+				,"sen":"Asc"
+				,"vencimiento":"21/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5846304,
+				 -34.5534804
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"179"
+				,"n_serie":"NEO_073"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General San Martín"
+				,"ubicación":"J.M. De Rosas"
+				,"km":"4700"
+				,"sen":"Desc"
+				,"vencimiento":"24/4/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5850279,
+				 -34.5534827
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"180"
+				,"n_serie":"NEO_076"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General San Martín"
+				,"ubicación":"Ricardo Balbin"
+				,"km":"4883"
+				,"sen":"Asc"
+				,"vencimiento":"18/5/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5714104,
+				 -34.5642836
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"181"
+				,"n_serie":"NEO_077"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General San Martín"
+				,"ubicación":"Ricardo Balbin"
+				,"km":"4880"
+				,"sen":"Desc"
+				,"vencimiento":"21/11/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5716303,
+				 -34.5645487
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"182"
+				,"n_serie":"NEO_078"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Chacabuco"
+				,"ubicación":"Ruta Provincial 30"
+				,"km":"Calle 836"
+				,"sen":"Asc"
+				,"vencimiento":"4/12/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.4172389,
+				 -34.6299331
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"183"
+				,"n_serie":"NEO_086"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Chacabuco"
+				,"ubicación":"Ruta Provincial 30"
+				,"km":"Calle 836"
+				,"sen":"Desc"
+				,"vencimiento":"13/7/17"
+				,"estado":"Pendiente Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.4173186,
+				 -34.6299866
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"184"
+				,"n_serie":"NEO_094"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Luján"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"159.3"
+				,"sen":"Asc"
+				,"vencimiento":"19/6/18"
+				,"estado":"Pendiente Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.0375916,
+				 -34.5211627
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"185"
+				,"n_serie":"NEO_097"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Capitán Sarmiento"
+				,"ubicación":"Ruta Provincial 51  "
+				,"km":"96.7"
+				,"sen":"Desc"
+				,"vencimiento":"1/9/17"
+				,"estado":"Pendiente Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.9275694,
+				 -34.2210321
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"186"
+				,"n_serie":"NEO_098"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Capitán Sarmiento"
+				,"ubicación":"Ruta Provincial 51  "
+				,"km":"96.7"
+				,"sen":"Asc"
+				,"vencimiento":"16/8/17"
+				,"estado":"Pendiente Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.9275835,
+				 -34.2210377
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"187"
+				,"n_serie":"NEO_099"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Luján"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"159.3"
+				,"sen":"Desc"
+				,"vencimiento":"21/6/18"
+				,"estado":"Pendiente Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.0377714,
+				 -34.5211939
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"188"
+				,"n_serie":"NEO_100"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Carmen De Areco"
+				,"ubicación":"Ruta Provincial 51  "
+				,"km":"121.3"
+				,"sen":"Desc"
+				,"vencimiento":"1/9/17"
+				,"estado":"Pendiente Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.8462778,
+				 -34.3648611
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"189"
+				,"n_serie":"NEO_106"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Carmen De Areco"
+				,"ubicación":"Ruta Provincial 51  "
+				,"km":"121.3"
+				,"sen":"Asc"
+				,"vencimiento":"3/12/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.8476511,
+				 -34.3684743
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"190"
+				,"n_serie":"NEO_107"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Vicente López"
+				,"ubicación":"Avenida Del Libertador"
+				,"km":"538"
+				,"sen":"Desc"
+				,"vencimiento":"18/1/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.470255,
+				 -34.5291775
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"191"
+				,"n_serie":"NEO_108"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Dolores"
+				,"ubicación":"Ruta Provincial 2"
+				,"km":"195.9"
+				,"sen":"Desc"
+				,"vencimiento":"22/10/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.7066825,
+				 -36.2661027
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"192"
+				,"n_serie":"NEO_109"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Vicente López"
+				,"ubicación":"Avenida Del Libertador"
+				,"km":"451"
+				,"sen":"Asc"
+				,"vencimiento":"9/3/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.4700001,
+				 -34.5301146
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"193"
+				,"n_serie":"NEO_111"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Exaltación de la Cruz"
+				,"ubicación":"Ruta Provincial 39"
+				,"km":"2"
+				,"sen":"Asc"
+				,"vencimiento":"8/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.0903584,
+				 -34.3058772
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"194"
+				,"n_serie":"NEO_112"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Exaltación de la Cruz"
+				,"ubicación":"Ruta Provincial 39"
+				,"km":"2.3"
+				,"sen":"Desc"
+				,"vencimiento":"24/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.0902726,
+				 -34.3058395
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"195"
+				,"n_serie":"NEO_113"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Dolores"
+				,"ubicación":"Ruta Provincial 2"
+				,"km":"195.9"
+				,"sen":"Asc"
+				,"vencimiento":"23/10/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -57.7070366,
+				 -36.2661244
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"196"
+				,"n_serie":"NEO_114"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Vicente López"
+				,"ubicación":"Avenida Del Libertador"
+				,"km":"3697"
+				,"sen":"Asc"
+				,"vencimiento":"16/4/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.4843982,
+				 -34.4961493
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"197"
+				,"n_serie":"NEO_117"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Tigre"
+				,"ubicación":"Avenida Benavidez E Hipico Del Delta"
+				,"km":"4300"
+				,"sen":"Desc"
+				,"vencimiento":"27/4/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6743435,
+				 -34.3987042
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"198"
+				,"n_serie":"NEO_118"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Tigre"
+				,"ubicación":"Avenida Benavidez "
+				,"km":"3850"
+				,"sen":"Asc"
+				,"vencimiento":"26/10/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6733136,
+				 -34.3983589
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"199"
+				,"n_serie":"NEO_177"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"La Matanza"
+				,"ubicación":"Ruta Provincial 21 Y Calle El Pindo"
+				,"km":"-"
+				,"sen":"Desc"
+				,"vencimiento":"2/10/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5359611,
+				 -34.7223301
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"200"
+				,"n_serie":"NEO_180"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Nueve De Julio"
+				,"ubicación":"Ruta Provincial 65"
+				,"km":"172.1"
+				,"sen":"Asc"
+				,"vencimiento":"1/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.9228338,
+				 -35.4580419
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"201"
+				,"n_serie":"NEO_184"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Nueve De Julio"
+				,"ubicación":"Ruta Provincial 65"
+				,"km":"172.1"
+				,"sen":"Desc"
+				,"vencimiento":"31/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.9235848,
+				 -35.4583741
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"202"
+				,"n_serie":"NEO_196"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Ituzaingó"
+				,"ubicación":"Fray Luis Beltran"
+				,"km":"2181"
+				,"sen":"Desc"
+				,"vencimiento":"8/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6696519,
+				 -34.6787563
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"203"
+				,"n_serie":"NEO_198"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Malvinas Argentinas"
+				,"ubicación":"Avenida Sesquicentenario"
+				,"km":"4823"
+				,"sen":"Desc"
+				,"vencimiento":"13/7/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6856723,
+				 -34.4847761
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"204"
+				,"n_serie":"NEO_199"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Malvinas Argentinas"
+				,"ubicación":"Avenida Sesquicentenario"
+				,"km":"4824"
+				,"sen":"Asc"
+				,"vencimiento":"7/8/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.685801,
+				 -34.4846543
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"205"
+				,"n_serie":"NEO_205"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Ituzaingó"
+				,"ubicación":"Fray Luis Beltran"
+				,"km":"2100"
+				,"sen":"Asc"
+				,"vencimiento":"8/6/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6704029,
+				 -34.6793739
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"206"
+				,"n_serie":"NEO_215"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Azul"
+				,"ubicación":"Ruta Provincial 51 Y Madres De Plaza De Mayo"
+				,"km":"60"
+				,"sen":"Desc"
+				,"vencimiento":"12/11/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.8931549,
+				 -36.7948247
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"207"
+				,"n_serie":"NEO_216"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Azul"
+				,"ubicación":"Ruta Provincial 51 Y Madres De Plaza De Mayo"
+				,"km":"60"
+				,"sen":"Asc"
+				,"vencimiento":"12/11/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -59.8929295,
+				 -36.7949879
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"208"
+				,"n_serie":"NEO_220"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Hurlingham"
+				,"ubicación":"Ruta Provincial 201- Tte. Julio Roca"
+				,"km":"3353"
+				,"sen":"Asc"
+				,"vencimiento":"Consultar"
+				,"estado":"Consultar"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6516126,
+				 -34.569734
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"209"
+				,"n_serie":"NEO_222"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Hurlingham"
+				,"ubicación":"Ruta Provincial 201 Tte. Julio Roca"
+				,"km":"3353"
+				,"sen":"Desc"
+				,"vencimiento":"Consultar"
+				,"estado":"Consultar"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6523421,
+				 -34.5701227
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"210"
+				,"n_serie":"REVO_SD_407"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Malvinas Argentinas"
+				,"ubicación":"Avenida Sesquicentenario Y Adela  Burgos"
+				,"km":"-"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.7013445,
+				 -34.4911568
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"211"
+				,"n_serie":"REVO_SD_408"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Malvinas Argentinas"
+				,"ubicación":"Ruta Provincial 23 Y Colpayo"
+				,"km":"-"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6511889,
+				 -34.5046687
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"212"
+				,"n_serie":"SMART_RED_20014"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Moreno"
+				,"ubicación":"Avenida Mitre Y Del Carril"
+				,"km":"-"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.7773967,
+				 -34.6525255
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"213"
+				,"n_serie":"SMART_RED_20015"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Moreno"
+				,"ubicación":"Avenida Mitre Y De La Quintana"
+				,"km":"-"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.7831231,
+				 -34.6509081
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"214"
+				,"n_serie":"SMART_RED_20036"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Hurlingham"
+				,"ubicación":"Avenida Vergara"
+				,"km":"1852"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6326176,
+				 -34.6230088
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"215"
+				,"n_serie":"SMART_RED_20037"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Hurlingham"
+				,"ubicación":"Avenida Vergara"
+				,"km":"1560"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6316696,
+				 -34.6267268
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"216"
+				,"n_serie":"SMART_RED_20039"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Hurlingham"
+				,"ubicación":"Pastre Y Roma"
+				,"km":"-"
+				,"sen":"-Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6239175,
+				 -34.6080209
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"217"
+				,"n_serie":"SMART_RED_20041"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Hurlingham"
+				,"ubicación":"Avenida Roca Y Los Arboles"
+				,"km":"-NO ESTA"
+				,"sen":"-No Esta"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6201596,
+				 -34.5953418
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"218"
+				,"n_serie":"SMARTRED_20001"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Escobar"
+				,"ubicación":"Ruta Provincial 25 Y Miguel Cané"
+				,"km":"-"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.8008499,
+				 -34.3599347
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"219"
+				,"n_serie":"SMARTRED_20002"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Escobar"
+				,"ubicación":"Ruta Provincial 25 Y Schweitzer"
+				,"km":"-"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.7601789,
+				 -34.3275161
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"220"
+				,"n_serie":"SMARTRED_20003"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Escobar"
+				,"ubicación":"Ruta Provincial 25 Y Patricias Mendocinas"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.7852468,
+				 -34.340681
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"221"
+				,"n_serie":"SS_10003"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Morón"
+				,"ubicación":"Avenida Eva Perón"
+				,"km":"2996"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6348378,
+				 -34.6817554
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"222"
+				,"n_serie":"SS_10004"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Morón"
+				,"ubicación":"Avenida Eva Perón Y San Francisco"
+				,"km":"-"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6303827,
+				 -34.6725737
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"223"
+				,"n_serie":"SS_10005"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Morón"
+				,"ubicación":"Avenida Eva Perón Y Burgos"
+				,"km":"-"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.629134,
+				 -34.6696034
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"224"
+				,"n_serie":"SS_10017"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Tigre"
+				,"ubicación":"Ruta Provincial 24  Y Ezeiza "
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6073821,
+				 -34.4486354
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"225"
+				,"n_serie":"SS_10019"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Ituzaingó"
+				,"ubicación":"Avenida Rivadavia Y Niceto Vega"
+				,"km":"-"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6813992,
+				 -34.6635752
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"226"
+				,"n_serie":"SS_10025"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Ituzaingó"
+				,"ubicación":"Avenida Beltran Y Aquino"
+				,"km":"-"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6680691,
+				 -34.6774346
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"227"
+				,"n_serie":"SS_1201"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Tigre"
+				,"ubicación":"Avenida Torcuato De Alvear Y Burgos"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6280641,
+				 -34.4923297
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"228"
+				,"n_serie":"SS_1202"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Tigre"
+				,"ubicación":"Avenida Irigoyen Y España"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.6576538,
+				 -34.472907
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"229"
+				,"n_serie":"SS_1606"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"La Matanza"
+				,"ubicación":"Carlos Casares Y Polledo"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.616287,
+				 -34.7049423
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"230"
+				,"n_serie":"SS_1607"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"La Matanza"
+				,"ubicación":"Ruta Provincial 21 Y El Curro"
+				,"km":"-"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5346227,
+				 -34.7129584
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"231"
+				,"n_serie":"SS_3104"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"San Fernando"
+				,"ubicación":"Ruta Provincial 202 - Avenida H Yrigoyen"
+				,"km":"-"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.558064,
+				 -34.4450382
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"232"
+				,"n_serie":"SS_3105"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"San Fernando"
+				,"ubicación":"Ruta Provincial 202 - Avenida H Yrigoyen"
+				,"km":"-"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5581299,
+				 -34.4450931
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"233"
+				,"n_serie":"SS_3202"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"San Isidro"
+				,"ubicación":"Avenida Márquez Y Tellier"
+				,"km":"-"
+				,"sen":"Desc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5229053,
+				 -34.4795619
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"234"
+				,"n_serie":"SS_3203"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"San Isidro"
+				,"ubicación":"Avenida Márquez Y Haedo"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5194193,
+				 -34.4778309
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"235"
+				,"n_serie":"SS_3204"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"San Isidro"
+				,"ubicación":"Avenida Femini Y Cordoba"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.5170785,
+				 -34.4630777
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"236"
+				,"n_serie":"SS_3205"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"San Isidro"
+				,"ubicación":"Avenida De Mayo Y Villa Alvino"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.4857661,
+				 -34.4870257
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"237"
+				,"n_serie":"SS_3901"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Moreno"
+				,"ubicación":"Avenida Libertador Y Avellaneda"
+				,"km":"-"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.773787,
+				 -34.6200869
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"238"
+				,"n_serie":"SS_3902"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Moreno"
+				,"ubicación":"Avenida Piovano Y Amancay"
+				,"km":"-"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.8127069,
+				 -34.643934
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"239"
+				,"n_serie":"SS_3903"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Moreno"
+				,"ubicación":"Ruta Provincial 23 Y Avenida Néstor Kirchner"
+				,"km":"-"
+				,"sen":"-"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.7487962,
+				 -34.5847181
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"240"
+				,"n_serie":"SS_4901"
+				,"producto":"Control De Semaforo"
+				,"tipo":"Fijos"
+				,"proyecto":"Vicente López"
+				,"ubicación":"Avenida Del Libertador Y Darwin"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.4845726,
+				 -34.494278
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"241"
+				,"n_serie":"SS_4904"
+				,"producto":"Control De Luces"
+				,"tipo":"Fijos"
+				,"proyecto":"Vicente López"
+				,"ubicación":"Avenida Del Libertador Y J. Ingenieros "
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"No Requiere Calibración"
+				,"estado":"No Requiere Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.4841003,
+				 -34.498662
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"242"
+				,"n_serie":"URBAN_0006"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Junín"
+				,"ubicación":"Ruta Provincial 65"
+				,"km":"79"
+				,"sen":"Asc"
+				,"vencimiento":"18/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -61.0015101,
+				 -34.573799
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"243"
+				,"n_serie":"URBAN_0007"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Junín"
+				,"ubicación":"Ruta Provincial 65"
+				,"km":"79"
+				,"sen":"Desc"
+				,"vencimiento":"18/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -61.0020675,
+				 -34.5740999
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"244"
+				,"n_serie":"URBAN_0008"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Moreno"
+				,"ubicación":"Ruta Provincial 25 E/Agrelo Y Bartolomé Díaz"
+				,"km":"-"
+				,"sen":"Desc"
+				,"vencimiento":"22/12/18"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.8306107,
+				 -34.5853651
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"245"
+				,"n_serie":"URBAN_0009"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Moreno"
+				,"ubicación":"Ruta Provincial 25 E/Agrelo Y Bartolomé Díaz"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"10/7/18"
+				,"estado":"Pendiente Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.831449,
+				 -34.585788
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"246"
+				,"n_serie":"URBAN_0318"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Las Heras"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"107.3"
+				,"sen":"Desc"
+				,"vencimiento":"5/9/18"
+				,"estado":"Pendiente Calibración"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.827402,
+				 -34.9493316
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"247"
+				,"n_serie":"URBAN_0323"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Las Heras"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"107.3"
+				,"sen":"Asc"
+				,"vencimiento":"27/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.8272236,
+				 -34.9514244
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"248"
+				,"n_serie":"URBAN_0324"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Las Heras"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"107.3"
+				,"sen":"Asc"
+				,"vencimiento":"13/3/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.8259778,
+				 -34.9513939
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"249"
+				,"n_serie":"URBAN_0327"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Las Heras"
+				,"ubicación":"Ruta Provincial 6"
+				,"km":"107.3"
+				,"sen":"Desc"
+				,"vencimiento":"27/9/19"
+				,"estado":"Operativo"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -58.8268505,
+				 -34.9525852
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"250"
+				,"n_serie":"URBAN_0337"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Arrecifes"
+				,"ubicación":"Ministro Emparanza Y Escocia"
+				,"km":"-"
+				,"sen":"Asc"
+				,"vencimiento":"Consultar"
+				,"estado":"Consultar"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.0944771,
+				 -34.0684062
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"251"
+				,"n_serie":"URBAN_0338"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"Arrecifes"
+				,"ubicación":"Ministro Emparanza Y Escocia"
+				,"km":"-"
+				,"sen":"Desc"
+				,"vencimiento":"Consultar"
+				,"estado":"Consultar"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -60.0946809,
+				 -34.0684047
+
+			]
+					 }
+				 },
+{ 						"type": "Feature",
+						"properties": { 				"id":"252"
+				,"n_serie":"URBAN_0339"
+				,"producto":"Cinemómetro"
+				,"tipo":"Fijos"
+				,"proyecto":"General Lavalle"
+				,"ubicación":"Ruta Provincial 11"
+				,"km":"317.7"
+				,"sen":"Asc"
+				,"vencimiento":"Consultar"
+				,"estado":"Consultar"
+				,"propietario":"Municipal"
+		 },
+						"geometry": { 							"type": "Point",
+							"coordinates": [
+				 -56.7150707,
+				 -36.4751114
+
+			]
+					 }
+				 }] }
